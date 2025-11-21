@@ -57,7 +57,7 @@ If my GitHub looks quieter than my resume, it’s because the interesting stuff 
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mehul-kothari-009447227/)
-- 💻 [GitHub](https://github.com/Mehul-k123)
+- 💻 [LeetCode](https://leetcode.com/u/mehul_k123/)
 - ✉️ Email: **mehulkothari1706@gmail.com**
 
 > Always open to backend-heavy roles, automation work, and systems where correctness & reliability really matter.
