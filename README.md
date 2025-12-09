@@ -2,7 +2,7 @@
 
 I'm a **Backend Software Developer** (B.Tech CSE, IIIT Una – **8.75 CGPA**) with hands-on experience in **backend development, DevOps automation, and CI/CD pipelines**.  
 I focus on **clean, maintainable code**, reliable systems, and **improving developer efficiency** through automation.
-
+If my GitHub looks quieter than my resume, it’s because the interesting stuff is locked behind org permissions. 🙂👉 [Mehul-kosh](https://github.com/Mehulkosh)
 ---
 
 ## 🔧 Tech Snapshot
